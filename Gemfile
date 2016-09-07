@@ -14,6 +14,8 @@ gem 'sprockets', '2.11.0'
 
 gem 'simple_form'
 
+gem 'carrierwave', '0.10.0'
+
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
@@ -37,7 +39,9 @@ gem 'rails_12factor', group: :production
 
 gem 'devise', '>= 3.2.4'
 
-gem 'simple_form'
+gem "figaro"
+
+gem "fog"
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
