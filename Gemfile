@@ -15,6 +15,7 @@ gem 'sprockets', '2.11.0'
 gem 'simple_form'
 
 gem 'carrierwave', '0.10.0'
+gem 'carrierwave-aws'
 
 
 # Use Uglifier as compressor for JavaScript assets
