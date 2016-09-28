@@ -18,6 +18,7 @@ gem 'carrierwave', '0.10.0'
 gem 'carrierwave-aws'
 
 gem 'stripe'
+gem 'ranked-model'
 
 
 # Use Uglifier as compressor for JavaScript assets
