@@ -17,6 +17,8 @@ gem 'simple_form'
 gem 'carrierwave', '0.10.0'
 gem 'carrierwave-aws'
 
+gem 'stripe'
+
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
